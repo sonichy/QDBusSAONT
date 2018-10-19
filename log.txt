@@ -1,7 +1,0 @@
-[2018/10/19 11:40:06]  /media/sonichy/job/HY/Linux/Qt/DBus/DBus /home/sonichy/Desktop/downBlob.htm
-[2018/10/19 11:40:38]  /media/sonichy/job/HY/Linux/Qt/DBus/DBus
-[2018/10/19 11:56:41]  /media/sonichy/job/HY/Linux/Qt/DBus/DBus
-[2018/10/19 11:59:19]  /media/sonichy/job/HY/Linux/Qt/DBus/DBus
-[2018/10/19 12:49:46]  /media/sonichy/job/HY/Linux/Qt/DBus/DBus
-[2018/10/19 12:51:10]  /media/sonichy/job/HY/Linux/Qt/DBus/DBus /home/sonichy/Desktop/昆明.txt
-[2018/10/19 12:51:16]  /media/sonichy/job/HY/Linux/Qt/DBus/DBus /home/sonichy/Desktop/白细胞减少.txt
